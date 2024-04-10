@@ -1,0 +1,26 @@
+{
+  "Apple": {
+    "AOL": "Not a thing",
+    "Address": "1662 W Hunt Hwy",
+    "Hours": {
+      "Monday": "4 AM - 8 PM",
+      "Tuesday": "4 AM - 8 PM",
+      "Wednesday": "4 AM - 8 PM"
+    },
+    "dedede": "dedede",
+    "fef": "fefe"
+  },
+  "Cracker Barrell": {
+    "Employee": "John"
+  },
+  "Dunkin'": {
+    "Address": "1662 W Hunt Hwy",
+    "Hours": {
+      "Monday": "4 AM - 8 PM",
+      "Tuesday": "4 AM - 8 PM",
+      "Wednesday": "4 AM - 8 PM",
+      "deede": "dedede"
+        }
+    },
+    "dsdsdsd": "sdsdsdsds"
+}

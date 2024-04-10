@@ -1,0 +1,251 @@
+23:35:10 - file_management.py - Checking if file is empty
+
+04102024 - 23:35:10 - Program Started
+23:35:10 - logging started
+23:35:10 - settings_management.py - loading settings to dict...
+23:35:10 - file_management.py - Returning recent files json as dict...
+23:35:10 - Creating root window
+23:35:10 - Configuring root weights...
+23:35:10 - Interaction panel instantiation...
+23:35:10 - Side panel instantiation...
+
+04102024 - 23:35:10 - Program Started
+23:35:10 - logging started
+23:35:10 - custom_widgits.py - Itterating through cell creation (0)
+
+04102024 - 23:35:10 - Program Started
+23:35:10 - logging started
+23:35:10 - custom_widgits.py - creating RecentCell..
+23:35:10 - custom_widgits.py - Itterating through cell creation (1)
+
+04102024 - 23:35:10 - Program Started
+23:35:10 - logging started
+23:35:10 - custom_widgits.py - creating RecentCell..
+23:35:10 - custom_widgits.py - Itterating through cell creation (2)
+
+04102024 - 23:35:10 - Program Started
+23:35:10 - logging started
+23:35:10 - custom_widgits.py - creating RecentCell..
+23:35:10 - custom_widgits.py - Itterating through cell creation (3)
+
+04102024 - 23:35:10 - Program Started
+23:35:10 - logging started
+23:35:10 - custom_widgits.py - creating RecentCell..
+23:35:10 - custom_widgits.py - Itterating through cell creation (4)
+
+04102024 - 23:35:10 - Program Started
+23:35:10 - logging started
+23:35:10 - custom_widgits.py - creating RecentCell..
+23:35:10 - Bottom panel instantiation...
+23:35:10 - Instantiating editing widgets....
+
+04102024 - 23:35:10 - Program Started
+23:35:10 - logging started
+23:35:10 - custom_widgits.py - Instancing CtkInformationEditor
+23:35:10 - custom_widgits.py - Updating Recents GUI
+23:35:10 - Updated recent files list
+23:35:10 - Looking for recoverable files...
+23:35:10 - file_management.py - Checking if file is empty
+23:35:10 - Running root window...
+23:36:29 - Selecting File..
+23:36:29 - file_management.py - creating GUI for file selection...
+23:36:31 - file_management.py - determining file type compatability...
+23:36:31 - settings_management.py - Attempting to change settings...
+23:36:31 - settings_management.py - Settings changed
+23:36:31 - settings_management.py - loading settings to dict...
+23:36:31 - settings_management.py - Attempting to change settings...
+23:36:31 - settings_management.py - Settings changed
+23:36:31 - settings_management.py - loading settings to dict...
+23:36:31 - file_management.py - File found compatible
+23:36:31 - file_management.py - updating recent files...
+23:36:31 - file_management.py - Returning recent files json as dict...
+23:36:31 - file_management.py - Recent Files .json updated.
+23:36:31 - Selected File: C:/Users/Ryanr/Documents/Programming/FBLA-2024-CaP/Files/Places.json
+23:36:31 - info_editor.py - jsonToDict - C:/Users/Ryanr/Documents/Programming/FBLA-2024-CaP/Files/Places.json
+23:36:31 - custom_widgits.py - Clearing editor...
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+23:36:31 - custom_widgits.py - Populating editor...
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+
+04102024 - 23:36:31 - Program Started
+23:36:31 - logging started
+23:36:32 - Updating recent files json
+23:36:32 - custom_widgits.py - Updating Recents GUI
+23:36:33 - Saving File at .temp/temp.json
+23:36:33 - file_management.py - Initiating file save...
+23:36:33 - file_management.py - Opening temp file...
+23:36:33 - file_management.py - copying temp data to main file
+23:36:33 - file_management.py - wiping temp file...
+23:36:36 - file_management.py - Checking if file is empty
+
+04102024 - 23:36:36 - Program Started
+23:36:36 - logging started
+23:36:36 - settings_management.py - loading settings to dict...
+23:36:36 - file_management.py - Returning recent files json as dict...
+23:36:36 - Creating root window
+23:36:36 - Configuring root weights...
+23:36:36 - Interaction panel instantiation...
+23:36:36 - Side panel instantiation...
+
+04102024 - 23:36:36 - Program Started
+23:36:36 - logging started
+23:36:36 - custom_widgits.py - Itterating through cell creation (0)
+
+04102024 - 23:36:36 - Program Started
+23:36:36 - logging started
+23:36:36 - custom_widgits.py - creating RecentCell..
+23:36:36 - custom_widgits.py - Itterating through cell creation (1)
+
+04102024 - 23:36:36 - Program Started
+23:36:36 - logging started
+23:36:36 - custom_widgits.py - creating RecentCell..
+23:36:36 - custom_widgits.py - Itterating through cell creation (2)
+
+04102024 - 23:36:36 - Program Started
+23:36:36 - logging started
+23:36:36 - custom_widgits.py - creating RecentCell..
+23:36:36 - custom_widgits.py - Itterating through cell creation (3)
+
+04102024 - 23:36:36 - Program Started
+23:36:36 - logging started
+23:36:36 - custom_widgits.py - creating RecentCell..
+23:36:36 - custom_widgits.py - Itterating through cell creation (4)
+
+04102024 - 23:36:36 - Program Started
+23:36:36 - logging started
+23:36:36 - custom_widgits.py - creating RecentCell..
+23:36:36 - Bottom panel instantiation...
+23:36:36 - Instantiating editing widgets....
+
+04102024 - 23:36:36 - Program Started
+23:36:36 - logging started
+23:36:36 - custom_widgits.py - Instancing CtkInformationEditor
+23:36:36 - custom_widgits.py - Updating Recents GUI
+23:36:36 - Updated recent files list
+23:36:36 - Looking for recoverable files...
+23:36:36 - file_management.py - Checking if file is empty
+23:36:36 - Running root window...
+23:36:57 - file_management.py - Checking if file is empty
+
+04102024 - 23:36:57 - Program Started
+23:36:57 - logging started
+23:36:57 - settings_management.py - loading settings to dict...
+23:36:57 - file_management.py - Returning recent files json as dict...
+23:36:57 - Creating root window
+23:36:57 - Configuring root weights...
+23:36:57 - Interaction panel instantiation...
+23:36:57 - Side panel instantiation...
+
+04102024 - 23:36:57 - Program Started
+23:36:57 - logging started
+23:36:57 - custom_widgits.py - Itterating through cell creation (0)
+
+04102024 - 23:36:57 - Program Started
+23:36:57 - logging started
+23:36:57 - custom_widgits.py - creating RecentCell..
+23:36:57 - custom_widgits.py - Itterating through cell creation (1)
+
+04102024 - 23:36:57 - Program Started
+23:36:57 - logging started
+23:36:57 - custom_widgits.py - creating RecentCell..
+23:36:57 - custom_widgits.py - Itterating through cell creation (2)
+
+04102024 - 23:36:57 - Program Started
+23:36:57 - logging started
+23:36:57 - custom_widgits.py - creating RecentCell..
+23:36:57 - custom_widgits.py - Itterating through cell creation (3)
+
+04102024 - 23:36:57 - Program Started
+23:36:57 - logging started
+23:36:57 - custom_widgits.py - creating RecentCell..
+23:36:57 - custom_widgits.py - Itterating through cell creation (4)
+
+04102024 - 23:36:57 - Program Started
+23:36:57 - logging started
+23:36:57 - custom_widgits.py - creating RecentCell..
+23:36:57 - Bottom panel instantiation...
+23:36:57 - Instantiating editing widgets....
+
+04102024 - 23:36:57 - Program Started
+23:36:57 - logging started
+23:36:57 - custom_widgits.py - Instancing CtkInformationEditor
+23:36:57 - custom_widgits.py - Updating Recents GUI
+23:36:57 - Updated recent files list
+23:36:57 - Looking for recoverable files...
+23:36:57 - file_management.py - Checking if file is empty
+23:36:57 - Running root window...
+23:37:26 - Opening Settings Page
+23:37:33 - Opening Settings Page
